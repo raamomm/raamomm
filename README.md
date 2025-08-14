@@ -5,20 +5,15 @@
         body{
             color: black; 
         }
-
         h2{
             background: linear-gradient(90deg,rgba(30, 133, 54, 0.72) 0%, rgba(28, 73, 43, 1) 43%, rgba(28, 69, 42, 1) 74%, rgba(26, 22, 18, 1) 100%);
             color: white;
         }
-
         .contact{
-            width: 40px;
+            width: 40px;;
         }
-
     </style>
 </head>
-
-<body>
 
 
 ## Sejam bem vindos!
@@ -51,8 +46,5 @@
 <a href="https://www.instagram.com/raamomm/"> <img class="contact" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="40px"/></a>
 
 
-
 ![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-</body>
-</html>
