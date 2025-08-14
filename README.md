@@ -31,3 +31,13 @@
 
 ![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=raamomm&show_icons=true&theme=radical)
 
+### 📝 Cursos e Certificados
+
+| Cursos | Certificados |
+| ---------- | ------------ |
+| **Lógica de Programação** | [Certificado](https://hermes.dio.me/certificates/KG5BZKER.pdf) |
+| HTML Web Developer | [Certificado](https://hermes.dio.me/certificates/W7MDEIIF.pdf) |
+| CSS Web Developer | [Certificado](https://hermes.dio.me/certificates/QKFPUVKW.pdf) |
+
+
+
