@@ -35,7 +35,7 @@
 
 | Cursos | Certificados |
 | ---------- | ------------ |
-| **Lógica de Programação** | [Certificado](https://hermes.dio.me/certificates/KG5BZKER.pdf) |
+| Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/KG5BZKER.pdf) |
 | HTML Web Developer | [Certificado](https://hermes.dio.me/certificates/W7MDEIIF.pdf) |
 | CSS Web Developer | [Certificado](https://hermes.dio.me/certificates/QKFPUVKW.pdf) |
 
