@@ -1,22 +1,21 @@
 <!DOCTYPE html>
+<html>
 <head>
-<style>
-    body{
-    /*background: linear-gradient(90deg,#5516ba,rgba(255, 0, 229, 0.5) 80%);*/
-    color: black;
-        
-    }
+    <style>
+        body{
+            color: black; 
+        }
 
-    h2{
-        background: linear-gradient(90deg,rgba(30, 133, 54, 0.72) 0%, rgba(28, 73, 43, 1) 43%, rgba(28, 69, 42, 1) 74%, rgba(26, 22, 18, 1) 100%);
-        color: white;
-    }
+        h2{
+            background: linear-gradient(90deg,rgba(30, 133, 54, 0.72) 0%, rgba(28, 73, 43, 1) 43%, rgba(28, 69, 42, 1) 74%, rgba(26, 22, 18, 1) 100%);
+            color: white;
+        }
 
-    img.contact{
-        width: 40px;
-    }
+        .contact{
+            width: 40px;
+        }
 
-</style>
+    </style>
 </head>
 
 <body>
@@ -48,12 +47,12 @@
 
 ### 🌐 Onde me encontrar
 
-<a href="https://www.linkedin.com/in/ramon-rocha-0479b5235/"><img class="contact" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a> <a href="https://www.facebook.com/ramon.rocha.9699/"> <img class="contact" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"/>
-<a href="https://www.instagram.com/raamomm/"> <img class="contact" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png"/></a>
+<a href="https://www.linkedin.com/in/ramon-rocha-0479b5235/"><img class="contact" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px"/></a> <a href="https://www.facebook.com/ramon.rocha.9699/"> <img class="contact" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40px">
+<a href="https://www.instagram.com/raamomm/"> <img class="contact" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="40px"/></a>
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </body>
 </html>
