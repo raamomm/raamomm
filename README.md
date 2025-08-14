@@ -7,7 +7,7 @@
 
 <p>
   💻 Desenvolvedor | 🎓 Estudante | 🚀 Entusiasta de tecnologia
-</p>
+</p><br>
 
 ### 🧑‍💻 Sobre mim
 
@@ -16,11 +16,7 @@
 - 🌱 Aprendendo: [JavaScript, React]
 - 🤝 Buscando colaborar em projetos open-source
 
-### 🛠️ Tecnologias e Ferramentas
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="80px"/>
-          
-
+<br>  
 
 ### 🌐 Onde me encontrar
 
@@ -29,7 +25,31 @@
 <img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="40px"/></a>
 
 
-![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=raamomm&show_icons=true&theme=merko)
+<br>
+
+----------------
+
+
+### 🛠️ Tecnologias e Ferramentas
+<br>
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="80px"/>
+
+</div>
+
+--------------
+
+
+<div align="center">
+<a href="https://github.com/raamomm">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=raamomm&show_icons=true&theme=merko">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raamomm&size_weight=0.5&count_weight=0.5&theme=merko">
+</div>
+
+<br>
+
+------------------------
 
 ### 📝 Cursos e Certificados
 
