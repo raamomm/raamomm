@@ -24,8 +24,9 @@
 
 ### 🌐 Onde me encontrar
 
-<a href="https://www.linkedin.com/in/ramon-rocha-0479b5235/"><img class="contact" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px"/></a> <a href="https://www.facebook.com/ramon.rocha.9699/"> <img class="contact" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40px">
-<a href="https://www.instagram.com/raamomm/"> <img class="contact" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="40px"/></a>
+<a href="https://www.linkedin.com/in/ramon-rocha-0479b5235/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px"/></a> <a href="https://www.facebook.com/ramon.rocha.9699">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40px"></a> <a href="https://www.instagram.com/raamomm/">
+<img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="40px"/></a>
 
 
 ![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=raamomm&show_icons=true&theme=radical)
